@@ -16,6 +16,8 @@ as
 
 --
 
-esta palabra esta en negrilla
+esta palabra esta en **negrilla**
+
+esto es un *italica*
  
  
